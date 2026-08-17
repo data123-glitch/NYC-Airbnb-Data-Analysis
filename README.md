@@ -79,8 +79,8 @@ The analysis examined:
 ## Project Files
 
 * `NYC_Airbnb_Data_Cleaning_Analysis.ipynb` — Complete Python data cleaning and analysis notebook
-* `cleaned_airbnb.csv` — Final cleaned dataset
 * `README.md` — Project documentation
+* `cleaned_airbnb.csv` — Final cleaned dataset
 
 ## Conclusion
 
